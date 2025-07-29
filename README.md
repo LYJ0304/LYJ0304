@@ -1,4 +1,4 @@
-## 안녕하세요! 👋
+## Hi! I'm Young Joon 👋
 
 <!--
 **LYJ0304/LYJ0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Welcome to my profile</p>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LYJ0304&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/LYJ0304"
