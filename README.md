@@ -5,6 +5,7 @@
 ---
 
 <h3>🛠 Tech Stack</h3>
+<br>
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -18,6 +19,7 @@
 ---
 
 <h3>📊 GitHub Stats</h3>
+<br>
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYJ0304&hide_border=true&card_width=400&layout=compact" alt="Top Languages">
 </div>
