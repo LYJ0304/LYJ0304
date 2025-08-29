@@ -4,8 +4,8 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
-<div align="center">
+<h3>🛠 Tech Stack</h3>
+<div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -17,8 +17,8 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
+<h3>📊 GitHub Stats</h3>
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYJ0304&hide_border=true&card_width=400&layout=compact" alt="Top Languages">
 </div>
 
