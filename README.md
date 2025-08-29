@@ -1,13 +1,6 @@
-## Hi! I'm Young Joon 👋
-
-<p>Welcome to my profile</p>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LYJ0304&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/LYJ0304"
-  width="600"
-  height="300"
-/>
-</a>
+<div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Young Joon's GitHub">
+</div>
 
 ---
 
