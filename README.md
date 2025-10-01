@@ -1,6 +1,6 @@
 <div align="center">
       <div class="header">
-            <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YoungJoon%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Young Joon">
+            <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Backend%20Developer&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Backend Developer">
       </div>
 
 </div>
