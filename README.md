@@ -1,20 +1,35 @@
-<div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YoungJoon%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Young Joon">
+<div align="center">
+      <div class="header">
+            <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YoungJoon%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Young Joon">
+      </div>
+
 </div>
 
----
 
-<h3>🛠 Tech Stack</h3>
-<br>
-<div>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<div align="center">
+      <h2>Skills</h2>
+      <h3>Backend</h3>
+            <div>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+            </div>
+      <h3>Database</h3>
+            <div>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+            </div>
+      <h3>DevOps</h3>
+            <div>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+                  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+            </div>
 </div>
+
+
+
+
+
 
 ---
 
