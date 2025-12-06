@@ -7,7 +7,7 @@
 
 
 <div>
-      <h2>⚙️Skills</h2>
+      <h2>⚙️ Skills</h2>
       <h3>Backend</h3>
             <div>
                   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -29,7 +29,7 @@
 </div>
 
 <div>
-      <h2>🏆Awards</h2>
+      <h2>🏆 Awards</h2>
       <p>[한국청소년활동진흥원 이사장상] 청소년 데이터 분석&활용 경진대회 데이터 분석자료 활용분야 최우수상</p>
       <p>[충남대학교 총장상] 충남대학교 생성형 인공지능 챌린지 은상</p>
       <p>[한동대학교 총장상] 소외된 이웃과 함께하는 창의설계 경진대회 총장상</p>
