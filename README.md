@@ -6,8 +6,8 @@
 </div>
 
 
-<div align="center">
-      <h2>Skills</h2>
+<div>
+      <h2>⚙️Skills</h2>
       <h3>Backend</h3>
             <div>
                   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
