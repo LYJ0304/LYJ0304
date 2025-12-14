@@ -10,23 +10,15 @@
       <h2>⚙️ Skills</h2>
       <h3>Backend</h3>
             <div>
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring.svg">
-                  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
+                  <img src="https://skillicons.dev/icons?i=java,py,spring,fastapi">
             </div>
       <h3>Database</h3>
             <div>
-                   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
-                   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+                  <img src="https://skillicons.dev/icons?i=mysql,postgres">
             </div>
       <h3>Infra</h3>
             <div>
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> 
-                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg">
+                  <img src="https://skillicons.dev/icons?i=git,github,docker,aws">
             </div>
 </div>
 
