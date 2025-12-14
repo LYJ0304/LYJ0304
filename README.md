@@ -10,21 +10,23 @@
       <h2>⚙️ Skills</h2>
       <h3>Backend</h3>
             <div>
-                  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-                  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spring/spring.svg">
                   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
             </div>
       <h3>Database</h3>
             <div>
-                   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-                   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+                   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
+                   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
             </div>
       <h3>Infra</h3>
             <div>
-                  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-                  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-                  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-                  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> 
+                  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg">
             </div>
 </div>
 
