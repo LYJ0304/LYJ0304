@@ -6,7 +6,7 @@
 </div> -->
 
 
-<div>
+<!-- <div>
       <h2>⚙️ Skills</h2>
       <h3>Backend</h3>
             <div>
@@ -20,7 +20,7 @@
             <div>
                   <img src="https://skillicons.dev/icons?i=git,github,docker,aws">
             </div>
-</div>
+</div> -->
 
 <!-- <div>
       <h2>🏆 Awards</h2>
